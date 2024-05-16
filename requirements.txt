@@ -4,6 +4,7 @@ numpy
 pandas
 scikit_learn
 tensorflow
+tensorflow.keras
 tensorflow_hub
 keras
 opencv-python-headless
