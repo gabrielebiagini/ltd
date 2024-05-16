@@ -9,7 +9,7 @@ import cv2
 IMAGE_SIZE = 224
 
 # Caricamento del modello addestrato
-model_path = 'C:/Users/gabri/Desktop/Stream/mushroom_classifier_with_conv.h5'
+model_path = 'mushroom_classifier_with_conv.h5'
 model = tf.keras.models.load_model(model_path)
 
 # Funzione per preprocessare l'immagine
