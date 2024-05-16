@@ -3,7 +3,7 @@ openai
 numpy
 pandas
 scikit_learn
-tensorflow==2.9.1
+tensorflow==2.6
 tensorflow_hub
 keras
 opencv-python-headless
