@@ -7,6 +7,7 @@ tensorflow
 tensorflow_hub
 keras
 opencv-python
+opencv-python-headless
 pillow
 pathlib
 matplotlib
