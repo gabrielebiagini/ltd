@@ -82,3 +82,8 @@ if uploaded_file is not None:
     
     st.write("Grad-CAM:")
     st.image(superimposed_img, caption='Grad-CAM', use_column_width=True)
+# Spiegazioni per SHAP e Grad-CAM
+st.markdown("""
+### Spiegazione delle visualizzazioni:
+- **Grad-CAM**: La heatmap di Grad-CAM evidenzia le regioni dell'immagine che hanno influenzato maggiormente la decisione del modello. Le aree più calde (rosse) indicano una maggiore importanza.
+""")
