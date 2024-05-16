@@ -5,7 +5,6 @@ scikit_learn
 tensorflow
 tensorflow_hub
 keras
-cv2
 pandas
 pillow
 pathlib
