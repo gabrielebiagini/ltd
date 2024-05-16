@@ -3,6 +3,7 @@ openai
 numpy
 pandas
 scikit_learn
+opencv
 tensorflow
 tensorflow_hub
 keras
